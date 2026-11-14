@@ -1,0 +1,10 @@
+data/
+proxydata/
+*.npz
+*.npy
+__pycache__/
+.venv/
+*.mp4
+*.csv
+.DS_Store
+docs/*_draft.md
